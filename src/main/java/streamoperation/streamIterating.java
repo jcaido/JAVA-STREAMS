@@ -19,8 +19,7 @@ public class streamIterating {
                 System.out.println("true");
         }
 
-        Stream<String> stream = list.stream();
-        boolean isContain = stream.anyMatch(element -> element.contains("a"));
+        boolean isContain = list.stream().anyMatch(element -> element.contains("a"));
         System.out.println(isContain);
     }
 }
