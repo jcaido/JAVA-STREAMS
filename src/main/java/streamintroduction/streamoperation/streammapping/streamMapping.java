@@ -1,6 +1,4 @@
-package streamoperation.streammapping;
-
-import streamoperation.streammapping.Food;
+package streamintroduction.streamoperation.streammapping;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package streamoperation.streammapping;
+package streamintroduction.streamoperation.streammapping;
 
 import java.util.List;
 

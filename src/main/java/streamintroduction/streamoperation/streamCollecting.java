@@ -1,4 +1,4 @@
-package streamoperation;
+package streamintroduction.streamoperation;
 
 import java.util.ArrayList;
 import java.util.List;
